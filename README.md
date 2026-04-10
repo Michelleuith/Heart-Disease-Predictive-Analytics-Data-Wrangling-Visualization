@@ -1,4 +1,3 @@
-# Heart-Disease-Predictive-Analytics-Data-Wrangling-Visualization
 # ❤️ Heart Disease Prediction (Data Wrangling & Machine Learning)
 
 ### 📌 Overview
